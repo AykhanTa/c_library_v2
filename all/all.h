@@ -467,6 +467,7 @@ typedef enum MAV_CMD
 #include "../minimal/minimal.h"
 #include "../python_array_test/python_array_test.h"
 #include "../standard/standard.h"
+#include "../intercept/intercept.h"
 #include "../test/test.h"
 #include "../ualberta/ualberta.h"
 #include "../uAvionix/uAvionix.h"
